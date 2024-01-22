@@ -1,12 +1,13 @@
 {
-    "helloWorld":"helloWorld!",
+    "login":"LOGIN SCREEN",
      "@helloWorld":{
       "description":"The conventional newborn programmer greeting"
 
       },
-   "counterMsg":"You have pushed the button this many times:",
-      "@counterMsg":{
-        "description":"You have pushed the button this many times:"
-
-   }
+   "name":"My name is Muhammad Kashif",
+   "email":"Enter your email",
+   "password":"Enter your password",
+   "confirmPassword":"confirm your password",
+   "role":"Enter your role",
+   "saveText":"SAVE"
 }
